@@ -5,7 +5,7 @@
   "main": "script.js",
   "scripts": {
     "start": "node script.js",
-    "server": "nodemon script.js"
+    "serve": "nodemon script.js"
   },
   "author": "Maksim",
   "license": "ISC",
